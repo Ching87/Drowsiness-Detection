@@ -15,7 +15,8 @@ SOLUTION:
     
     Here i have used the Inception V3 architecture and applied transfer learning approach
     
-    ![image](https://user-images.githubusercontent.com/96677288/170698345-b3024955-41a9-47bd-bd98-211887c936d6.png)
+    
+![image](https://user-images.githubusercontent.com/96677288/170698538-209696fa-8a6c-469c-bed4-c2999935df32.png)
 
 
     The above image is an Inception Module which constitutes the Inception V3 architecture
