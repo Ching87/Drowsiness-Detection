@@ -24,3 +24,12 @@ The above image is an Inception Module which constitutes the Inception V3 archit
 ![image](https://user-images.githubusercontent.com/96677288/170696418-c36b79d4-12ed-41a4-aee6-0229299f37d8.png)
 
 ![download](https://user-images.githubusercontent.com/96677288/170696588-7750f0e9-ca7b-4be5-a03a-7dbd0087400b.png)
+
+
+
+
+
+RESULT: 
+
+
+![image](https://user-images.githubusercontent.com/96677288/170831926-5869ac11-fb7d-4942-bd1d-94b8673b3fc7.png)
